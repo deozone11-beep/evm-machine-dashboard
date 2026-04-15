@@ -1,0 +1,2228 @@
+[
+  {
+    "SNo.": 1,
+    "Unit ID": "BVTEF81337",
+    "PS No": 161,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 2,
+    "Unit ID": "BVTED95109",
+    "PS No": 205,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 3,
+    "Unit ID": "BVTEF75284",
+    "PS No": 131,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 4,
+    "Unit ID": "BVTEO72102",
+    "PS No": 21,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 5,
+    "Unit ID": "BVTEO74321",
+    "PS No": "Reserve 75",
+    "Zonal Party No": "Reserve 75"
+  },
+  {
+    "SNo.": 6,
+    "Unit ID": "BVTEO74342",
+    "PS No": 279,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 7,
+    "Unit ID": "BVTEO74360",
+    "PS No": 59,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 8,
+    "Unit ID": "BVTEO74376",
+    "PS No": 78,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 9,
+    "Unit ID": "BVTEO75164",
+    "PS No": 113,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 10,
+    "Unit ID": "BVTEO75175",
+    "PS No": 171,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 11,
+    "Unit ID": "BVTEO75509",
+    "PS No": 7,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 12,
+    "Unit ID": "BVTEO75529",
+    "PS No": 99,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 13,
+    "Unit ID": "BVTEO75744",
+    "PS No": "Reserve 26",
+    "Zonal Party No": "Reserve 26"
+  },
+  {
+    "SNo.": 14,
+    "Unit ID": "BVTEO75926",
+    "PS No": 268,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 15,
+    "Unit ID": "BVTEO75954",
+    "PS No": 139,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 16,
+    "Unit ID": "BVTEO76166",
+    "PS No": "Reserve 1",
+    "Zonal Party No": "Reserve 1"
+  },
+  {
+    "SNo.": 17,
+    "Unit ID": "BVTEO76360",
+    "PS No": 209,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 18,
+    "Unit ID": "BVTEO76465",
+    "PS No": 214,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 19,
+    "Unit ID": "BVTEO76631",
+    "PS No": 162,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 20,
+    "Unit ID": "BVTEO76677",
+    "PS No": 276,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 21,
+    "Unit ID": "BVTEO76861",
+    "PS No": "Reserve 23",
+    "Zonal Party No": "Reserve 23"
+  },
+  {
+    "SNo.": 22,
+    "Unit ID": "BVTEO71815",
+    "PS No": 49,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 23,
+    "Unit ID": "BVTEO71952",
+    "PS No": 190,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 24,
+    "Unit ID": "BVTEO72391",
+    "PS No": "Reserve 67",
+    "Zonal Party No": "Reserve 67"
+  },
+  {
+    "SNo.": 25,
+    "Unit ID": "BVTEO72638",
+    "PS No": 88,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 26,
+    "Unit ID": "BVTEO73995",
+    "PS No": "Reserve 79",
+    "Zonal Party No": "Reserve 79"
+  },
+  {
+    "SNo.": 27,
+    "Unit ID": "BVTEA10581",
+    "PS No": 153,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 28,
+    "Unit ID": "BVTAK64661",
+    "PS No": 103,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 29,
+    "Unit ID": "BVTEO72362",
+    "PS No": 200,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 30,
+    "Unit ID": "BVTEO76658",
+    "PS No": 145,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 31,
+    "Unit ID": "BVTEO72755",
+    "PS No": 215,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 32,
+    "Unit ID": "BVTEO75050",
+    "PS No": 260,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 33,
+    "Unit ID": "BVTEO76834",
+    "PS No": 257,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 34,
+    "Unit ID": "BVTEO70247",
+    "PS No": 235,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 35,
+    "Unit ID": "BVTEA76026",
+    "PS No": 151,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 36,
+    "Unit ID": "BVTEO71195",
+    "PS No": "Reserve 51",
+    "Zonal Party No": "Reserve 51"
+  },
+  {
+    "SNo.": 37,
+    "Unit ID": "BVTEE10476",
+    "PS No": 138,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 38,
+    "Unit ID": "BVTED96928",
+    "PS No": 50,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 39,
+    "Unit ID": "BVTEE20281",
+    "PS No": 92,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 40,
+    "Unit ID": "BVTEJ11977",
+    "PS No": 60,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 41,
+    "Unit ID": "BVTEF87893",
+    "PS No": 167,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 42,
+    "Unit ID": "BVTAK42820",
+    "PS No": 86,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 43,
+    "Unit ID": "BVTAK61546",
+    "PS No": 234,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 44,
+    "Unit ID": "BVTAK62986",
+    "PS No": "Reserve 47",
+    "Zonal Party No": "Reserve 47"
+  },
+  {
+    "SNo.": 45,
+    "Unit ID": "BVTAK92163",
+    "PS No": 36,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 46,
+    "Unit ID": "BVTAK67188",
+    "PS No": 38,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 47,
+    "Unit ID": "BVTEA62418",
+    "PS No": 216,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 48,
+    "Unit ID": "BVTEA65844",
+    "PS No": 2,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 49,
+    "Unit ID": "BVTEA77370",
+    "PS No": 48,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 50,
+    "Unit ID": "BVTEA75286",
+    "PS No": "Reserve 56",
+    "Zonal Party No": "Reserve 56"
+  },
+  {
+    "SNo.": 51,
+    "Unit ID": "BVTEA85836",
+    "PS No": 218,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 52,
+    "Unit ID": "BVTEA68535",
+    "PS No": 54,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 53,
+    "Unit ID": "BVTEA95027",
+    "PS No": 210,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 54,
+    "Unit ID": "BVTEB27186",
+    "PS No": 241,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 55,
+    "Unit ID": "BVTEA88018",
+    "PS No": 27,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 56,
+    "Unit ID": "BVTEO70072",
+    "PS No": "Reserve 42",
+    "Zonal Party No": "Reserve 42"
+  },
+  {
+    "SNo.": 57,
+    "Unit ID": "BVTED53041",
+    "PS No": 226,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 58,
+    "Unit ID": "BVTED86683",
+    "PS No": 172,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 59,
+    "Unit ID": "BVTED59085",
+    "PS No": 125,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 60,
+    "Unit ID": "BVTEC89344",
+    "PS No": 220,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 61,
+    "Unit ID": "BVTEG09168",
+    "PS No": 238,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 62,
+    "Unit ID": "BVTEJ19701",
+    "PS No": 181,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 63,
+    "Unit ID": "BVTEC49510",
+    "PS No": 219,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 64,
+    "Unit ID": "BVTEH58547",
+    "PS No": 35,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 65,
+    "Unit ID": "BVTEO70165",
+    "PS No": "Reserve 81",
+    "Zonal Party No": "Reserve 81"
+  },
+  {
+    "SNo.": 66,
+    "Unit ID": "BVTEF24192",
+    "PS No": 196,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 67,
+    "Unit ID": "BVTEF05017",
+    "PS No": 22,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 68,
+    "Unit ID": "BVTEI99790",
+    "PS No": "Reserve 72",
+    "Zonal Party No": "Reserve 72"
+  },
+  {
+    "SNo.": 69,
+    "Unit ID": "BVTED62678",
+    "PS No": "Reserve 44",
+    "Zonal Party No": "Reserve 44"
+  },
+  {
+    "SNo.": 70,
+    "Unit ID": "BVTEO70141",
+    "PS No": 152,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 71,
+    "Unit ID": "BVTEE19714",
+    "PS No": 126,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 72,
+    "Unit ID": "BVTED04715",
+    "PS No": "Reserve 7",
+    "Zonal Party No": "Reserve 7"
+  },
+  {
+    "SNo.": 73,
+    "Unit ID": "BVTED61821",
+    "PS No": "Reserve 8",
+    "Zonal Party No": "Reserve 8"
+  },
+  {
+    "SNo.": 74,
+    "Unit ID": "BVTED85562",
+    "PS No": 236,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 75,
+    "Unit ID": "BVTEJ16572",
+    "PS No": "Reserve 10",
+    "Zonal Party No": "Reserve 10"
+  },
+  {
+    "SNo.": 76,
+    "Unit ID": "BVTEF56581",
+    "PS No": 83,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 77,
+    "Unit ID": "BVTEC58339",
+    "PS No": 28,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 78,
+    "Unit ID": "BVTEG52141",
+    "PS No": 52,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 79,
+    "Unit ID": "BVTEE18817",
+    "PS No": 134,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 80,
+    "Unit ID": "BVTEC63860",
+    "PS No": 253,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 81,
+    "Unit ID": "BVTEF35950",
+    "PS No": 137,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 82,
+    "Unit ID": "BVTED63832",
+    "PS No": 204,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 83,
+    "Unit ID": "BVTED41446",
+    "PS No": 109,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 84,
+    "Unit ID": "BVTED98366",
+    "PS No": 43,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 85,
+    "Unit ID": "BVTED32378",
+    "PS No": "Reserve 28",
+    "Zonal Party No": "Reserve 28"
+  },
+  {
+    "SNo.": 86,
+    "Unit ID": "BVTEE14840",
+    "PS No": 191,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 87,
+    "Unit ID": "BVTEJ03727",
+    "PS No": 285,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 88,
+    "Unit ID": "BVTED27436",
+    "PS No": 77,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 89,
+    "Unit ID": "BVTEC11942",
+    "PS No": 62,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 90,
+    "Unit ID": "BVTED23520",
+    "PS No": 166,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 91,
+    "Unit ID": "BVTED93026",
+    "PS No": 14,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 92,
+    "Unit ID": "BVTEE07900",
+    "PS No": 107,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 93,
+    "Unit ID": "BVTED98593",
+    "PS No": 46,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 94,
+    "Unit ID": "BVTED08616",
+    "PS No": 211,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 95,
+    "Unit ID": "BVTEO70029",
+    "PS No": 259,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 96,
+    "Unit ID": "BVTEO70835",
+    "PS No": "Reserve 68",
+    "Zonal Party No": "Reserve 68"
+  },
+  {
+    "SNo.": 97,
+    "Unit ID": "BVTEO70894",
+    "PS No": "Reserve 52",
+    "Zonal Party No": "Reserve 52"
+  },
+  {
+    "SNo.": 98,
+    "Unit ID": "BVTEO70199",
+    "PS No": "Reserve 18",
+    "Zonal Party No": "Reserve 18"
+  },
+  {
+    "SNo.": 99,
+    "Unit ID": "BVTEO70244",
+    "PS No": 169,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 100,
+    "Unit ID": "BVTEO70970",
+    "PS No": 72,
+    "Zonal Party No": 7
+  },
+  {
+    "SNo.": 101,
+    "Unit ID": "BVTEO70959",
+    "PS No": 122,
+    "Zonal Party No": 18
+  },
+  {
+    "SNo.": 102,
+    "Unit ID": "BVTEO70400",
+    "PS No": 144,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 103,
+    "Unit ID": "BVTEO70305",
+    "PS No": 270,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 104,
+    "Unit ID": "BVTEO70991",
+    "PS No": 15,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 105,
+    "Unit ID": "BVTEO70846",
+    "PS No": "Reserve 66",
+    "Zonal Party No": "Reserve 66"
+  },
+  {
+    "SNo.": 106,
+    "Unit ID": "BVTEO70941",
+    "PS No": "Reserve 21",
+    "Zonal Party No": "Reserve 21"
+  },
+  {
+    "SNo.": 107,
+    "Unit ID": "BVTEO71086",
+    "PS No": 3,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 108,
+    "Unit ID": "BVTEO70693",
+    "PS No": 150,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 109,
+    "Unit ID": "BVTEO71258",
+    "PS No": 108,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 110,
+    "Unit ID": "BVTEO71133",
+    "PS No": "Reserve 48",
+    "Zonal Party No": "Reserve 48"
+  },
+  {
+    "SNo.": 111,
+    "Unit ID": "BVTEO71343",
+    "PS No": 250,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 112,
+    "Unit ID": "BVTEO71347",
+    "PS No": "Reserve 33",
+    "Zonal Party No": "Reserve 33"
+  },
+  {
+    "SNo.": 113,
+    "Unit ID": "BVTEO71108",
+    "PS No": 29,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 114,
+    "Unit ID": "BVTEO71326",
+    "PS No": 6,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 115,
+    "Unit ID": "BVTEO71212",
+    "PS No": 65,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 116,
+    "Unit ID": "BVTEO71385",
+    "PS No": 97,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 117,
+    "Unit ID": "BVTEO71235",
+    "PS No": 157,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 118,
+    "Unit ID": "BVTEO71520",
+    "PS No": 188,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 119,
+    "Unit ID": "BVTEO71769",
+    "PS No": 194,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 120,
+    "Unit ID": "BVTEO71853",
+    "PS No": 264,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 121,
+    "Unit ID": "BVTEO71656",
+    "PS No": 208,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 122,
+    "Unit ID": "BVTEO71706",
+    "PS No": "Reserve 19",
+    "Zonal Party No": "Reserve 19"
+  },
+  {
+    "SNo.": 123,
+    "Unit ID": "BVTEO71957",
+    "PS No": 110,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 124,
+    "Unit ID": "BVTEO75267",
+    "PS No": 227,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 125,
+    "Unit ID": "BVTEO72174",
+    "PS No": 180,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 126,
+    "Unit ID": "BVTEO76709",
+    "PS No": 20,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 127,
+    "Unit ID": "BVTEO76610",
+    "PS No": "Reserve 9",
+    "Zonal Party No": "Reserve 9"
+  },
+  {
+    "SNo.": 128,
+    "Unit ID": "BVTEO73014",
+    "PS No": 251,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 129,
+    "Unit ID": "BVTEO72511",
+    "PS No": 231,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 130,
+    "Unit ID": "BVTEO76879",
+    "PS No": 5,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 131,
+    "Unit ID": "BVTEO73482",
+    "PS No": 64,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 132,
+    "Unit ID": "BVTEO72492",
+    "PS No": 87,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 133,
+    "Unit ID": "BVTEO76043",
+    "PS No": 75,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 134,
+    "Unit ID": "BVTEO74101",
+    "PS No": 273,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 135,
+    "Unit ID": "BVTEO73260",
+    "PS No": 9,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 136,
+    "Unit ID": "BVTEO73691",
+    "PS No": "Reserve 54",
+    "Zonal Party No": "Reserve 54"
+  },
+  {
+    "SNo.": 137,
+    "Unit ID": "BVTEO72295",
+    "PS No": 178,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 138,
+    "Unit ID": "BVTEO72916",
+    "PS No": 254,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 139,
+    "Unit ID": "BVTEO76778",
+    "PS No": "Reserve 35",
+    "Zonal Party No": "Reserve 35"
+  },
+  {
+    "SNo.": 140,
+    "Unit ID": "BVTEO74040",
+    "PS No": 174,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 141,
+    "Unit ID": "BVTEO74804",
+    "PS No": 95,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 142,
+    "Unit ID": "BVTEO72724",
+    "PS No": 277,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 143,
+    "Unit ID": "BVTEO76665",
+    "PS No": "Reserve 2",
+    "Zonal Party No": "Reserve 2"
+  },
+  {
+    "SNo.": 144,
+    "Unit ID": "BVTEO72275",
+    "PS No": 136,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 145,
+    "Unit ID": "BVTEO72851",
+    "PS No": 192,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 146,
+    "Unit ID": "BVTEO75977",
+    "PS No": 283,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 147,
+    "Unit ID": "BVTEO71874",
+    "PS No": 243,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 148,
+    "Unit ID": "BVTEA76108",
+    "PS No": 258,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 149,
+    "Unit ID": "BVTEF85029",
+    "PS No": 94,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 150,
+    "Unit ID": "BVTEA81508",
+    "PS No": 73,
+    "Zonal Party No": 7
+  },
+  {
+    "SNo.": 151,
+    "Unit ID": "BVTEF25403",
+    "PS No": 263,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 152,
+    "Unit ID": "BVTEE07315",
+    "PS No": 61,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 153,
+    "Unit ID": "BVTED92894",
+    "PS No": 91,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 154,
+    "Unit ID": "BVTED78667",
+    "PS No": 245,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 155,
+    "Unit ID": "BVTAK61667",
+    "PS No": 121,
+    "Zonal Party No": 18
+  },
+  {
+    "SNo.": 156,
+    "Unit ID": "BVTEC83159",
+    "PS No": 149,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 157,
+    "Unit ID": "BVTED38045",
+    "PS No": 179,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 158,
+    "Unit ID": "BVTEC81893",
+    "PS No": 10,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 159,
+    "Unit ID": "BVTAK60359",
+    "PS No": 135,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 160,
+    "Unit ID": "BVTAK60355",
+    "PS No": 39,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 161,
+    "Unit ID": "BVTEC81350",
+    "PS No": 240,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 162,
+    "Unit ID": "BVTED72051",
+    "PS No": 158,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 163,
+    "Unit ID": "BVTED26906",
+    "PS No": 105,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 164,
+    "Unit ID": "BVTEO70801",
+    "PS No": 199,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 165,
+    "Unit ID": "BVTED52292",
+    "PS No": 98,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 166,
+    "Unit ID": "BVTEO70902",
+    "PS No": "Reserve 71",
+    "Zonal Party No": "Reserve 71"
+  },
+  {
+    "SNo.": 167,
+    "Unit ID": "BVTEO72198",
+    "PS No": 148,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 168,
+    "Unit ID": "BVTED02934",
+    "PS No": 93,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 169,
+    "Unit ID": "BVTAK52434",
+    "PS No": 120,
+    "Zonal Party No": 18
+  },
+  {
+    "SNo.": 170,
+    "Unit ID": "BVTED68730",
+    "PS No": "Reserve 4",
+    "Zonal Party No": "Reserve 4"
+  },
+  {
+    "SNo.": 171,
+    "Unit ID": "BVTEA30925",
+    "PS No": 111,
+    "Zonal Party No": 18
+  },
+  {
+    "SNo.": 172,
+    "Unit ID": "BVTEO72366",
+    "PS No": 168,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 173,
+    "Unit ID": "BVTEO75393",
+    "PS No": "Reserve 60",
+    "Zonal Party No": "Reserve 60"
+  },
+  {
+    "SNo.": 174,
+    "Unit ID": "BVTEO75668",
+    "PS No": 102,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 175,
+    "Unit ID": "BVTAK04927",
+    "PS No": 170,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 176,
+    "Unit ID": "BVTAK12008",
+    "PS No": 154,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 177,
+    "Unit ID": "BVTAK22857",
+    "PS No": 116,
+    "Zonal Party No": 7
+  },
+  {
+    "SNo.": 178,
+    "Unit ID": "BVTAK32636",
+    "PS No": 176,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 179,
+    "Unit ID": "BVTAK40012",
+    "PS No": 265,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 180,
+    "Unit ID": "BVTAK49054",
+    "PS No": 117,
+    "Zonal Party No": 7
+  },
+  {
+    "SNo.": 181,
+    "Unit ID": "BVTAK50559",
+    "PS No": "Reserve 32",
+    "Zonal Party No": "Reserve 32"
+  },
+  {
+    "SNo.": 182,
+    "Unit ID": "BVTAK51039",
+    "PS No": 267,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 183,
+    "Unit ID": "BVTAK57494",
+    "PS No": 81,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 184,
+    "Unit ID": "BVTAK67806",
+    "PS No": "Reserve 15",
+    "Zonal Party No": "Reserve 15"
+  },
+  {
+    "SNo.": 185,
+    "Unit ID": "BVTAK73699",
+    "PS No": "Reserve 3",
+    "Zonal Party No": "Reserve 3"
+  },
+  {
+    "SNo.": 186,
+    "Unit ID": "BVTEA19539",
+    "PS No": "Reserve 46",
+    "Zonal Party No": "Reserve 46"
+  },
+  {
+    "SNo.": 187,
+    "Unit ID": "BVTEA22493",
+    "PS No": 17,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 188,
+    "Unit ID": "BVTEA22649",
+    "PS No": 212,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 189,
+    "Unit ID": "BVTEA22877",
+    "PS No": 271,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 190,
+    "Unit ID": "BVTEA23214",
+    "PS No": 202,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 191,
+    "Unit ID": "BVTEA23790",
+    "PS No": 68,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 192,
+    "Unit ID": "BVTEA24268",
+    "PS No": 32,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 193,
+    "Unit ID": "BVTEA25028",
+    "PS No": 184,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 194,
+    "Unit ID": "BVTEA25805",
+    "PS No": 274,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 195,
+    "Unit ID": "BVTEA26747",
+    "PS No": "Reserve 40",
+    "Zonal Party No": "Reserve 40"
+  },
+  {
+    "SNo.": 196,
+    "Unit ID": "BVTEA27304",
+    "PS No": 66,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 197,
+    "Unit ID": "BVTEA28954",
+    "PS No": 225,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 198,
+    "Unit ID": "BVTEA37821",
+    "PS No": "Reserve 69",
+    "Zonal Party No": "Reserve 69"
+  },
+  {
+    "SNo.": 199,
+    "Unit ID": "BVTEA38389",
+    "PS No": 248,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 200,
+    "Unit ID": "BVTEA57267",
+    "PS No": 45,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 201,
+    "Unit ID": "BVTEA59844",
+    "PS No": 256,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 202,
+    "Unit ID": "BVTEA64672",
+    "PS No": 79,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 203,
+    "Unit ID": "BVTEA66257",
+    "PS No": "Reserve 45",
+    "Zonal Party No": "Reserve 45"
+  },
+  {
+    "SNo.": 204,
+    "Unit ID": "BVTEA67362",
+    "PS No": "Reserve 58",
+    "Zonal Party No": "Reserve 58"
+  },
+  {
+    "SNo.": 205,
+    "Unit ID": "BVTEA68152",
+    "PS No": 90,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 206,
+    "Unit ID": "BVTEA85639",
+    "PS No": "Reserve 24",
+    "Zonal Party No": "Reserve 24"
+  },
+  {
+    "SNo.": 207,
+    "Unit ID": "BVTEA87567",
+    "PS No": 280,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 208,
+    "Unit ID": "BVTEA88201",
+    "PS No": 275,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 209,
+    "Unit ID": "BVTEA98995",
+    "PS No": "Reserve 65",
+    "Zonal Party No": "Reserve 65"
+  },
+  {
+    "SNo.": 210,
+    "Unit ID": "BVTEB33758",
+    "PS No": 63,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 211,
+    "Unit ID": "BVTEB35687",
+    "PS No": 141,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 212,
+    "Unit ID": "BVTEB37281",
+    "PS No": 193,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 213,
+    "Unit ID": "BVTEC02135",
+    "PS No": "Reserve 30",
+    "Zonal Party No": "Reserve 30"
+  },
+  {
+    "SNo.": 214,
+    "Unit ID": "BVTEC02589",
+    "PS No": 195,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 215,
+    "Unit ID": "BVTEC02947",
+    "PS No": 26,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 216,
+    "Unit ID": "BVTEC10788",
+    "PS No": 269,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 217,
+    "Unit ID": "BVTEC11464",
+    "PS No": "Reserve 73",
+    "Zonal Party No": "Reserve 73"
+  },
+  {
+    "SNo.": 218,
+    "Unit ID": "BVTEC20445",
+    "PS No": "Reserve 70",
+    "Zonal Party No": "Reserve 70"
+  },
+  {
+    "SNo.": 219,
+    "Unit ID": "BVTEC27086",
+    "PS No": 222,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 220,
+    "Unit ID": "BVTEC31273",
+    "PS No": 197,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 221,
+    "Unit ID": "BVTEC38395",
+    "PS No": 206,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 222,
+    "Unit ID": "BVTEC38995",
+    "PS No": "Reserve 36",
+    "Zonal Party No": "Reserve 36"
+  },
+  {
+    "SNo.": 223,
+    "Unit ID": "BVTEC39246",
+    "PS No": "Reserve 34",
+    "Zonal Party No": "Reserve 34"
+  },
+  {
+    "SNo.": 224,
+    "Unit ID": "BVTEC44134",
+    "PS No": 185,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 225,
+    "Unit ID": "BVTEC44868",
+    "PS No": 34,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 226,
+    "Unit ID": "BVTEC46089",
+    "PS No": 119,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 227,
+    "Unit ID": "BVTEC52327",
+    "PS No": "Reserve 25",
+    "Zonal Party No": "Reserve 25"
+  },
+  {
+    "SNo.": 228,
+    "Unit ID": "BVTEC53233",
+    "PS No": 246,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 229,
+    "Unit ID": "BVTEC54904",
+    "PS No": 224,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 230,
+    "Unit ID": "BVTEC57633",
+    "PS No": 186,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 231,
+    "Unit ID": "BVTEC59017",
+    "PS No": 23,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 232,
+    "Unit ID": "BVTEC59066",
+    "PS No": "Reserve 20",
+    "Zonal Party No": "Reserve 20"
+  },
+  {
+    "SNo.": 233,
+    "Unit ID": "BVTEC63896",
+    "PS No": "Reserve 29",
+    "Zonal Party No": "Reserve 29"
+  },
+  {
+    "SNo.": 234,
+    "Unit ID": "BVTEC64574",
+    "PS No": 89,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 235,
+    "Unit ID": "BVTEC97066",
+    "PS No": 140,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 236,
+    "Unit ID": "BVTEC97911",
+    "PS No": "Reserve 53",
+    "Zonal Party No": "Reserve 53"
+  },
+  {
+    "SNo.": 237,
+    "Unit ID": "BVTED08235",
+    "PS No": "Reserve 41",
+    "Zonal Party No": "Reserve 41"
+  },
+  {
+    "SNo.": 238,
+    "Unit ID": "BVTED17973",
+    "PS No": 244,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 239,
+    "Unit ID": "BVTED22405",
+    "PS No": "Reserve 31",
+    "Zonal Party No": "Reserve 31"
+  },
+  {
+    "SNo.": 240,
+    "Unit ID": "BVTED42821",
+    "PS No": 84,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 241,
+    "Unit ID": "BVTED55839",
+    "PS No": 112,
+    "Zonal Party No": 18
+  },
+  {
+    "SNo.": 242,
+    "Unit ID": "BVTED57391",
+    "PS No": 233,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 243,
+    "Unit ID": "BVTED61988",
+    "PS No": 69,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 244,
+    "Unit ID": "BVTED62929",
+    "PS No": "Reserve 61",
+    "Zonal Party No": "Reserve 61"
+  },
+  {
+    "SNo.": 245,
+    "Unit ID": "BVTED68187",
+    "PS No": 228,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 246,
+    "Unit ID": "BVTED69895",
+    "PS No": "Reserve 78",
+    "Zonal Party No": "Reserve 78"
+  },
+  {
+    "SNo.": 247,
+    "Unit ID": "BVTED74404",
+    "PS No": 132,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 248,
+    "Unit ID": "BVTED77043",
+    "PS No": 127,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 249,
+    "Unit ID": "BVTED79979",
+    "PS No": 106,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 250,
+    "Unit ID": "BVTED80091",
+    "PS No": 133,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 251,
+    "Unit ID": "BVTED86794",
+    "PS No": 266,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 252,
+    "Unit ID": "BVTED87989",
+    "PS No": 130,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 253,
+    "Unit ID": "BVTED89923",
+    "PS No": "Reserve 5",
+    "Zonal Party No": "Reserve 5"
+  },
+  {
+    "SNo.": 254,
+    "Unit ID": "BVTED94969",
+    "PS No": "Reserve 43",
+    "Zonal Party No": "Reserve 43"
+  },
+  {
+    "SNo.": 255,
+    "Unit ID": "BVTED95774",
+    "PS No": 100,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 256,
+    "Unit ID": "BVTED96970",
+    "PS No": 55,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 257,
+    "Unit ID": "BVTED98378",
+    "PS No": 249,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 258,
+    "Unit ID": "BVTEE10509",
+    "PS No": 142,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 259,
+    "Unit ID": "BVTEE10959",
+    "PS No": 124,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 260,
+    "Unit ID": "BVTEE14239",
+    "PS No": "Reserve 49",
+    "Zonal Party No": "Reserve 49"
+  },
+  {
+    "SNo.": 261,
+    "Unit ID": "BVTEE14987",
+    "PS No": "Reserve 57",
+    "Zonal Party No": "Reserve 57"
+  },
+  {
+    "SNo.": 262,
+    "Unit ID": "BVTEE25028",
+    "PS No": 252,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 263,
+    "Unit ID": "BVTEE25803",
+    "PS No": 16,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 264,
+    "Unit ID": "BVTEE26660",
+    "PS No": 18,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 265,
+    "Unit ID": "BVTEE27509",
+    "PS No": 12,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 266,
+    "Unit ID": "BVTEF01981",
+    "PS No": 56,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 267,
+    "Unit ID": "BVTEF06920",
+    "PS No": 101,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 268,
+    "Unit ID": "BVTEF14312",
+    "PS No": 104,
+    "Zonal Party No": 10
+  },
+  {
+    "SNo.": 269,
+    "Unit ID": "BVTEF18402",
+    "PS No": "Reserve 13",
+    "Zonal Party No": "Reserve 13"
+  },
+  {
+    "SNo.": 270,
+    "Unit ID": "BVTEF36019",
+    "PS No": 76,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 271,
+    "Unit ID": "BVTEF43228",
+    "PS No": 30,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 272,
+    "Unit ID": "BVTEF46673",
+    "PS No": 85,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 273,
+    "Unit ID": "BVTEF67248",
+    "PS No": 217,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 274,
+    "Unit ID": "BVTEF73286",
+    "PS No": 182,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 275,
+    "Unit ID": "BVTEG01736",
+    "PS No": "Reserve 63",
+    "Zonal Party No": "Reserve 63"
+  },
+  {
+    "SNo.": 276,
+    "Unit ID": "BVTEG31405",
+    "PS No": 31,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 277,
+    "Unit ID": "BVTEG45779",
+    "PS No": 242,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 278,
+    "Unit ID": "BVTEJ02903",
+    "PS No": 118,
+    "Zonal Party No": 7
+  },
+  {
+    "SNo.": 279,
+    "Unit ID": "BVTEJ07294",
+    "PS No": "Reserve 6",
+    "Zonal Party No": "Reserve 6"
+  },
+  {
+    "SNo.": 280,
+    "Unit ID": "BVTEJ10461",
+    "PS No": 281,
+    "Zonal Party No": 23
+  },
+  {
+    "SNo.": 281,
+    "Unit ID": "BVTEJ21422",
+    "PS No": 232,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 282,
+    "Unit ID": "BVTEG05374",
+    "PS No": "Reserve 77",
+    "Zonal Party No": "Reserve 77"
+  },
+  {
+    "SNo.": 283,
+    "Unit ID": "BVTEA27426",
+    "PS No": 282,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 284,
+    "Unit ID": "BVTEA21953",
+    "PS No": 123,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 285,
+    "Unit ID": "BVTEB22218",
+    "PS No": 175,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 286,
+    "Unit ID": "BVTEA28452",
+    "PS No": "Reserve 38",
+    "Zonal Party No": "Reserve 38"
+  },
+  {
+    "SNo.": 287,
+    "Unit ID": "BVTEC30787",
+    "PS No": "Reserve 80",
+    "Zonal Party No": "Reserve 80"
+  },
+  {
+    "SNo.": 288,
+    "Unit ID": "BVTED64975",
+    "PS No": 11,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 289,
+    "Unit ID": "BVTED80211",
+    "PS No": 82,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 290,
+    "Unit ID": "BVTEE10287",
+    "PS No": 198,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 291,
+    "Unit ID": "BVTEE30971",
+    "PS No": "Reserve 62",
+    "Zonal Party No": "Reserve 62"
+  },
+  {
+    "SNo.": 292,
+    "Unit ID": "BVTEH39530",
+    "PS No": "Reserve 82",
+    "Zonal Party No": "Reserve 82"
+  },
+  {
+    "SNo.": 293,
+    "Unit ID": "BVTEA68963",
+    "PS No": 173,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 294,
+    "Unit ID": "BVTED33930",
+    "PS No": 286,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 295,
+    "Unit ID": "BVTEA71809",
+    "PS No": 128,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 296,
+    "Unit ID": "BVTEO71739",
+    "PS No": "Reserve 50",
+    "Zonal Party No": "Reserve 50"
+  },
+  {
+    "SNo.": 297,
+    "Unit ID": "BVTAK60831",
+    "PS No": "Reserve 12",
+    "Zonal Party No": "Reserve 12"
+  },
+  {
+    "SNo.": 298,
+    "Unit ID": "BVTEO72462",
+    "PS No": "Reserve 85",
+    "Zonal Party No": "Reserve 85"
+  },
+  {
+    "SNo.": 299,
+    "Unit ID": "BVTAK80014",
+    "PS No": "Reserve 59",
+    "Zonal Party No": "Reserve 59"
+  },
+  {
+    "SNo.": 300,
+    "Unit ID": "BVTAK63208",
+    "PS No": 183,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 301,
+    "Unit ID": "BVTED03294",
+    "PS No": "Reserve 16",
+    "Zonal Party No": "Reserve 16"
+  },
+  {
+    "SNo.": 302,
+    "Unit ID": "BVTEE12406",
+    "PS No": "Reserve 76",
+    "Zonal Party No": "Reserve 76"
+  },
+  {
+    "SNo.": 303,
+    "Unit ID": "BVTEE28612",
+    "PS No": 51,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 304,
+    "Unit ID": "BVTEJ02738",
+    "PS No": 67,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 305,
+    "Unit ID": "BVTED90292",
+    "PS No": 41,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 306,
+    "Unit ID": "BVTEA88544",
+    "PS No": 239,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 307,
+    "Unit ID": "BVTAK38815",
+    "PS No": "Reserve 55",
+    "Zonal Party No": "Reserve 55"
+  },
+  {
+    "SNo.": 308,
+    "Unit ID": "BVTEJ04877",
+    "PS No": 164,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 309,
+    "Unit ID": "BVTEC39271",
+    "PS No": 57,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 310,
+    "Unit ID": "BVTEA79099",
+    "PS No": 159,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 311,
+    "Unit ID": "BVTEF26821",
+    "PS No": 262,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 312,
+    "Unit ID": "BVTAK75425",
+    "PS No": "Reserve 37",
+    "Zonal Party No": "Reserve 37"
+  },
+  {
+    "SNo.": 313,
+    "Unit ID": "BVTEA73597",
+    "PS No": 261,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 314,
+    "Unit ID": "BVTEA64596",
+    "PS No": "Reserve 74",
+    "Zonal Party No": "Reserve 74"
+  },
+  {
+    "SNo.": 315,
+    "Unit ID": "BVTED78351",
+    "PS No": 247,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 316,
+    "Unit ID": "BVTED10482",
+    "PS No": 189,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 317,
+    "Unit ID": "BVTEC46203",
+    "PS No": 146,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 318,
+    "Unit ID": "BVTEO70273",
+    "PS No": 40,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 319,
+    "Unit ID": "BVTEA78538",
+    "PS No": 237,
+    "Zonal Party No": 27
+  },
+  {
+    "SNo.": 320,
+    "Unit ID": "BVTEC63308",
+    "PS No": 80,
+    "Zonal Party No": 8
+  },
+  {
+    "SNo.": 321,
+    "Unit ID": "BVTEE24373",
+    "PS No": 42,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 322,
+    "Unit ID": "BVTEF37044",
+    "PS No": 177,
+    "Zonal Party No": 14
+  },
+  {
+    "SNo.": 323,
+    "Unit ID": "BVTEC47702",
+    "PS No": 147,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 324,
+    "Unit ID": "BVTEA94644",
+    "PS No": 1,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 325,
+    "Unit ID": "BVTEC89711",
+    "PS No": 37,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 326,
+    "Unit ID": "BVTED99282",
+    "PS No": 44,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 327,
+    "Unit ID": "BVTEE28284",
+    "PS No": 165,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 328,
+    "Unit ID": "BVTEC79957",
+    "PS No": "Reserve 22",
+    "Zonal Party No": "Reserve 22"
+  },
+  {
+    "SNo.": 329,
+    "Unit ID": "BVTEB22993",
+    "PS No": 187,
+    "Zonal Party No": 15
+  },
+  {
+    "SNo.": 330,
+    "Unit ID": "BVTED70162",
+    "PS No": "Reserve 83",
+    "Zonal Party No": "Reserve 83"
+  },
+  {
+    "SNo.": 331,
+    "Unit ID": "BVTEF80616",
+    "PS No": 213,
+    "Zonal Party No": 26
+  },
+  {
+    "SNo.": 332,
+    "Unit ID": "BVTED88117",
+    "PS No": 19,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 333,
+    "Unit ID": "BVTEF33646",
+    "PS No": "Reserve 84",
+    "Zonal Party No": "Reserve 84"
+  },
+  {
+    "SNo.": 334,
+    "Unit ID": "BVTEC93900",
+    "PS No": 160,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 335,
+    "Unit ID": "BVTEE23015",
+    "PS No": 143,
+    "Zonal Party No": 19
+  },
+  {
+    "SNo.": 336,
+    "Unit ID": "BVTEC96295",
+    "PS No": 114,
+    "Zonal Party No": 18
+  },
+  {
+    "SNo.": 337,
+    "Unit ID": "BVTAK09541",
+    "PS No": "Reserve 39",
+    "Zonal Party No": "Reserve 39"
+  },
+  {
+    "SNo.": 338,
+    "Unit ID": "BVTEF48553",
+    "PS No": 74,
+    "Zonal Party No": 7
+  },
+  {
+    "SNo.": 339,
+    "Unit ID": "BVTEC53994",
+    "PS No": 4,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 340,
+    "Unit ID": "BVTED95753",
+    "PS No": "Reserve 27",
+    "Zonal Party No": "Reserve 27"
+  },
+  {
+    "SNo.": 341,
+    "Unit ID": "BVTEJ01263",
+    "PS No": "Reserve 14",
+    "Zonal Party No": "Reserve 14"
+  },
+  {
+    "SNo.": 342,
+    "Unit ID": "BVTEB28144",
+    "PS No": 155,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 343,
+    "Unit ID": "BVTED64586",
+    "PS No": 115,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 344,
+    "Unit ID": "BVTED69780",
+    "PS No": 53,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 345,
+    "Unit ID": "BVTEA82994",
+    "PS No": 129,
+    "Zonal Party No": 11
+  },
+  {
+    "SNo.": 346,
+    "Unit ID": "BVTEE21947",
+    "PS No": 8,
+    "Zonal Party No": 1
+  },
+  {
+    "SNo.": 347,
+    "Unit ID": "BVTAK61788",
+    "PS No": 229,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 348,
+    "Unit ID": "BVTEC59986",
+    "PS No": 70,
+    "Zonal Party No": 6
+  },
+  {
+    "SNo.": 349,
+    "Unit ID": "BVTAK51612",
+    "PS No": "Reserve 11",
+    "Zonal Party No": "Reserve 11"
+  },
+  {
+    "SNo.": 350,
+    "Unit ID": "BVTED60874",
+    "PS No": 255,
+    "Zonal Party No": 21
+  },
+  {
+    "SNo.": 351,
+    "Unit ID": "BVTEF62257",
+    "PS No": 207,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 352,
+    "Unit ID": "BVTEA23497",
+    "PS No": 13,
+    "Zonal Party No": 2
+  },
+  {
+    "SNo.": 353,
+    "Unit ID": "BVTED48056",
+    "PS No": 278,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 354,
+    "Unit ID": "BVTED97520",
+    "PS No": 223,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 355,
+    "Unit ID": "BVTED13701",
+    "PS No": 272,
+    "Zonal Party No": 22
+  },
+  {
+    "SNo.": 356,
+    "Unit ID": "BVTEH31457",
+    "PS No": 96,
+    "Zonal Party No": 9
+  },
+  {
+    "SNo.": 357,
+    "Unit ID": "BVTEF02150",
+    "PS No": 33,
+    "Zonal Party No": 4
+  },
+  {
+    "SNo.": 358,
+    "Unit ID": "BVTEC08368",
+    "PS No": 230,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 359,
+    "Unit ID": "BVTEA77104",
+    "PS No": 47,
+    "Zonal Party No": 5
+  },
+  {
+    "SNo.": 360,
+    "Unit ID": "BVTED73180",
+    "PS No": 163,
+    "Zonal Party No": 12
+  },
+  {
+    "SNo.": 361,
+    "Unit ID": "BVTAK65701",
+    "PS No": 201,
+    "Zonal Party No": 16
+  },
+  {
+    "SNo.": 362,
+    "Unit ID": "BVTEO70001",
+    "PS No": 156,
+    "Zonal Party No": 20
+  },
+  {
+    "SNo.": 363,
+    "Unit ID": "BVTEO70003",
+    "PS No": 284,
+    "Zonal Party No": 24
+  },
+  {
+    "SNo.": 364,
+    "Unit ID": "BVTEO70075",
+    "PS No": "Reserve 17",
+    "Zonal Party No": "Reserve 17"
+  },
+  {
+    "SNo.": 365,
+    "Unit ID": "BVTEO70350",
+    "PS No": 58,
+    "Zonal Party No": 17
+  },
+  {
+    "SNo.": 366,
+    "Unit ID": "BVTEO70355",
+    "PS No": "Reserve 64",
+    "Zonal Party No": "Reserve 64"
+  },
+  {
+    "SNo.": 367,
+    "Unit ID": "BVTEO70426",
+    "PS No": 221,
+    "Zonal Party No": 25
+  },
+  {
+    "SNo.": 368,
+    "Unit ID": "BVTEO71661",
+    "PS No": 71,
+    "Zonal Party No": 7
+  },
+  {
+    "SNo.": 369,
+    "Unit ID": "BVTEO72871",
+    "PS No": 203,
+    "Zonal Party No": 13
+  },
+  {
+    "SNo.": 370,
+    "Unit ID": "BVTEO73384",
+    "PS No": 24,
+    "Zonal Party No": 3
+  },
+  {
+    "SNo.": 371,
+    "Unit ID": "BVTEO76408",
+    "PS No": 25,
+    "Zonal Party No": 3
+  }
+]
